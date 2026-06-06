@@ -16,8 +16,8 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
-  - name: Topics
-    url: '#tags'
+  - name: Focus Areas
+    url: '#skills'
     weight: 50
 
 
