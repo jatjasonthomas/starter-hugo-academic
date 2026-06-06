@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects (under construction)
+title: Selected Work
 subtitle: ''
 
 content:
@@ -27,8 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Synthetic Data
-    tag: Synthetic Data
+  - name: Data Platforms
+    tag: Data Platforms
+  - name: MLOps
+    tag: MLOps
+  - name: Multimodal Data
+    tag: Multimodal Data
+  - name: Public Data
+    tag: Public Data
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

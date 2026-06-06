@@ -1,31 +1,31 @@
 ---
 # Display name
-title: Jason A. Thomas
+title: Jason Thomas, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD <br>Medical Data & AI Scientist | Strategist | Informatician | Tech lead - Senior Data & AI Scientist - Philips
+role: Healthcare Data Operations & AI/MLOps Platform Leader | Multimodal Medical Data & Partnerships
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Washington
-  url: "http://bime.uw.edu/"
+- name: Philips Image Guided Therapy Devices
+  url: "https://www.usa.philips.com/healthcare/resources/landing/igtd-purpose"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 1) building foundational layers (data, infrastructure, knowledge representation, talent, culture) to support biomedical data science and 2) applying data science & AI methods on data to drive business value and improve patient outcomes.
+bio: I build healthcare data, AI/MLOps, and governance foundations that turn complex medical data into durable assets for product AI, validation, analytics, and real-world evidence.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Real world evidence
-- Computable Phenotyping
-- Synthetic & real data utility, privacy
-- Data access, sharing, privacy
-- Digital therapeutics, clinical trials
-- Data models, annotation & curation
-- High-performance team building and culture
+- Healthcare data operations and strategy
+- Regulated AI/MLOps platforms
+- Multimodal medical and sensor data
+- Data partnerships, licensing, and governance
+- Real-world evidence and clinical informatics
+- Privacy-preserving data utility and validation
+- Medical data standards and interoperability
+- High-performance technical team building
 
 # Education to show in About widget
 education:
@@ -63,10 +63,10 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Accomplished business leader and innovator at the intersection of data science & artificial intelligence, medical informatics, and organizational data strategy. I have 12+ years experience in medicine ranging from non-profit executive leadership, frontline healthcare delivery, observational & interventional research, analysis/modeling of real-world data to new product introduction R&D. In just 2.5 years of work in the medical devices industry, I have driven innovation and led lean teams to generate outsized business value through the application of data science and AI methods, and have had a similarly outsized impact on shaping broader data strategy with senior management.
+I lead healthcare data operations, regulated AI/MLOps platform strategy, and data governance for medical-device R&D. My work sits between engineering, clinical informatics, product AI, regulatory evidence, privacy, and business strategy: translating product roadmaps into data demand/supply models, acquisition and annotation priorities, fit-for-purpose criteria, platform roadmaps, and reusable assets for development, validation, analytics, and real-world evidence.
 
-In my prior roles as a researcher before and during my PhD, I published 16 and 4 peer-reviewed journal articles and conference proceedings, respectively, over a six year time span. I wrote a $1.75 million R01 grant on EHR data quality based on 1/3 of my dissertation research with my [PhD advisor, Adam Wilcox](https://scholar.google.com/citations?hl=en&user=O6GOa0AAAAAJ&view_op=list_works&sortby=pubdate) that was scored in the top 38th percentile. I previously maintained many academic affiliations prior to moving to industry. These included serving on the Journal of the American Medical Informatics Association [(JAMIA) student editorial board (2019-2021)](https://web.archive.org/web/20200620122644/https://academic.oup.com/jamia/pages/Editorial_Board) under the mentorship of [NEI director Mike Chiang](https://www.nei.nih.gov/about/nei-leadership/michael-f-chiang-md) then [full editorial board (2021-2023)](https://web.archive.org/web/20221119055542/https://academic.oup.com/jamia/pages/Editorial_Board), the [2021 AMIA Annual Symposium Scientific Committee](https://web.archive.org/web/20220706155014/https://amia.org/education-events/amia-2021-annual-symposium/scientific-program-committee), [National Covid Cohort Collaborative (N3C) Synthetic Data Validation Workstream](https://web.archive.org/web/20220128204111/https://covid.cd2h.org/N3C_synthetic_data), [Cascadia Data Alliance](https://www.fredhutch.org/en/about/about-the-hutch/institutional-partners-collaborations/cascadia-data-alliance.html), [National Research Network for Audit Log Data](https://cliir.ucsf.edu/portfolio/national-research-network-ehr-audit-log-data) and more.
+At Philips Image Guided Therapy Devices, I built and now lead a distributed Data & AI Platform Engineering function spanning data sourcing, curation, annotation, data/ML engineering, infrastructure, MLOps, stewardship, governance, and real-world data. I manage a multi-million-dollar platform budget, support more than 100 developers and analysts, and help shape healthcare data and AI roadmaps, investment logic, success metrics, and executive dashboards across senior R&D and business-unit leadership.
 
-My main foci at Philips currently are 1) building foundations (data, infrastructure, knowledge representation, talent, culture) to support biomedical data science & AI and 2) applying data science & AI methods on data to drive business value and improve patient outcomes.
+My background also spans biomedical informatics research, real-world evidence, synthetic-data validation, medical NLP, ECG/VCG/ECGi, speech/audio biomarkers, clinical imaging context, and intraprocedural multimodal data. Over time, I am especially interested in the data, validation, and platform foundations required for physical AI in healthcare, including AI-assisted procedures, medical robotics, simulation, and sensor-fusion workflows.
 
-{{< icon name="download" pack="fas" >}} Download Jason's {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+[Download Jason's resume](uploads/resume.pdf).

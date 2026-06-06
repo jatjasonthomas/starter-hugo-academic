@@ -22,33 +22,34 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Tech Lead - Senior Data & AI Scientist
+  - title: Head of Data & AI Platform Engineering
     company: Philips Image Guided Therapy Devices
     company_url: 'https://www.usa.philips.com/healthcare/resources/landing/igtd-purpose'
     company_logo:
-    location: Seattle, WA, USA
-    date_start: '2022-09-15'
+    location: Bothell, WA, USA
+    date_start: '2024-10-01'
     date_end: ''
     description: |2-
-      * Lead team of 4 data Scientist to develop solutions that drive business value
-      * Lead & own IGTD’s Galileo iniative. Key advisor on projects involving data & AI
-      * Collaborate with senior management to define data & AI strategy and integrate data science insights, AI capabilities & SWE best practices into broader company strategies
-      * Awarded $400k (6 teams selected of >30 apps) for cross-deptartment Gen AI project
+      * Own healthcare data operations and AI/MLOps platform strategy for a global medtech R&D organization, translating product roadmaps into data demand/supply models, acquisition and annotation priorities, fit-for-purpose criteria, governance controls, platform roadmaps, investment metrics, and executive dashboards.
+      * Built and now lead a distributed 0-to-8 platform function across data sourcing, curation, annotation, data/ML engineering, infrastructure, MLOps, stewardship, governance, and clinical informatics.
+      * Manage a multi-million-dollar platform budget and support 100+ developers, analysts, and product AI/algorithm teams through governed self-service data access.
+      * Set portfolio priorities for healthcare data partnerships, licensed data, labeled and unlabeled data needs, vendor/tooling choices, annotation operations, lakehouse architecture, and AI-ready dataset reuse.
+      * Architect platform patterns for DICOM-linked clinical/imaging data, real-world evidence, and intraprocedural multimodal medical/sensor data used in AI-assisted workflows.
+      * Establish regulated AI validation foundations including lineage, reproducibility, dataset/model versioning practices, quality gates, train/validation/test governance, and blinded held-out evaluation sets.
 
-  - title: Senior Data & AI Scientist
+  - title: Principal Data & AI Scientist / Tech Lead - Senior Data & AI Scientist
     company: Philips Image Guided Therapy Devices
     company_url: 'https://www.usa.philips.com/healthcare/resources/landing/igtd-purpose'
     company_logo:
-    location: Seattle, WA, USA
+    location: Bothell, WA, USA
     date_start: '2022-02-15'
-    date_end: '2023-08-15'
+    date_end: '2024-09-30'
     description: |2-
-      * Designed, launched, led program that achieved payback on $1million by generating evidence at scale from hospital admin data supporting NPIs, reg compliance, marketing
-      * Selected, influenced infra/vendor choices for multiple projects
-      * Conceived of, wrote data strategy proposals adopted by senior leadership.
-      * Product manager and lead data scientist on generative AI use cases.
-      * Operate at the intersection of clinical development & R&D, regulatory affairs, business development & marketing, architecture, strategy, software engineering, data science.
-      * IP Generation: 253 inner-source contributions 2023: 57% commits,9% pull requests
+      * Designed and scaled real-world-evidence analytics across more than 1,000 hospitals and 1B+ patient visits for post-market surveillance, regulatory evidence, clinical strategy, and commercial decision support.
+      * Standardized a reusable library of 150+ computable phenotypes and clinical features used across regulated submissions, analytics, and downstream AI workflows.
+      * Reduced dashboard build time from roughly two days to roughly ten minutes through API automation and reusable evidence-generation patterns.
+      * Delivered production AI/GenAI systems on AWS, including identity-resolution and graph/vector retrieval workflows with evaluation harnesses for precision, recall, F1, and regression testing.
+      * Helped author data and AI strategy narratives, governance practices, and roadmap proposals adopted by senior leadership.
 
   - title: National Library of Medicine Biomedical Informatics & Data Science Pre-Doctoral Fellow
     company: University of Washington
@@ -58,13 +59,11 @@ experience:
     date_start: '2017-09-15'
     date_end: '2021-09-15'
     description: |2-
-      * Predicted dementia status from FramingHam Heart Study Cognitive Aging Cohort data using acoustic, linguistic and clinical data; identified data utility issues with recordings.
-      * Wrote, co-designed $1.75mill NIH grant on EHR data quality scored top 38 percentile
-      * Applied EHR data analytics, predictive modeling, OHDSI model-to-data studies
-      * [Assessed fitness for use of synthetic and real EHR and log data for research & hospital operations using UW Medicine and National Covid Cohort Collaborative (N3C) data](https://digital.lib.washington.edu/researchworks/handle/1773/47880)
-      * Contributed to ETL of an OMOP UW Medicine COVID-19 Research Data Warehouse
-      * Participated in the Medical Natural Language Inference subtask during MEDIQA 2019
-      * Improved state of the art on health questions answering for GARD dataset
+      * Built OMOP-based data warehouse and pipeline assets; assessed whether real and synthetic EHR/audit-log data were fit for secondary use under privacy-preserving constraints.
+      * Contributed to National COVID Cohort Collaborative synthetic-data validation work and analyzed more than 1.8M SARS-CoV-2 tests for geospatial and temporal epidemiologic utility.
+      * Developed multimodal ML models combining speech/audio, language, and clinical history to predict dementia status and evaluate clinical text/voice biomarkers.
+      * Trained GPU-accelerated ML models on Slurm-managed HPC infrastructure and AWS.
+      * Released reusable public healthcare data artifacts, including medical NLP code/data for replication and a 2,882-question annotated medical question-type dataset.
 
   - title: Senior Research Assistant
     company: Oregon Health & Science University Knight Cardiovascular Institute - Translational Electrophysiology Lab
@@ -74,15 +73,10 @@ experience:
     date_start: '2015-04-15'
     date_end: '2017-09-10'
     description: |2-
-      * Data analysis with python, stata, excel; aid lab mission to predict sudden cardiac death
-      * Coordinated, helped annotate >100,000 electrocardiograms from ARIC & CHS cohorts
-      * Assessed human-computer Interaction, accessibility barriers to use of ECG patches in home monitoring & creation of patient-generated self-tracking data in clinical studies
-      * Translation of grants and research designs into IRB submissions; wrote study designs
-      * Recruited >350 patients; 50 in 3.5 days, an RCT, field research alone at US National Alpine Championships
-      * Predicted SICD eligibility; Published 3 equal-1st author peer-reviewed journal articles.
-      * Co-author on multiple retrospective, observational peer-reviewed studies & a RCT
-      * Data collection: ECGs, 6-minute walk, surveys, chart reviews, device interrogations & intracardiac EGMs (including during cath-lab procedures).
-      * Obtained >100k ECGs from IT; equal-1st-author retrospective observational study
+      * Developed predictive models and annotation workflows across 100k+ ECGs; sourced clinical data under HIPAA and mined EHR outcomes for publication-ready analyses.
+      * Collected and analyzed multimodal electrophysiology and imaging-linked data including ECGs, 128-electrode body-surface ECG/ECGi recordings, device interrogations, and intracardiac EGMs during cath-lab procedures.
+      * Co-authored work combining CT/MRI/3D geometry and electrode localization for cardiac activation mapping.
+      * Recruited 350+ participants across observational and interventional studies, wrote study protocols, and supported multiple IRB approvals.
 
   - title: Executive Director
     company: Glow XC 501(c)(3)

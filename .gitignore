@@ -6,3 +6,7 @@
 public/
 jsconfig.json
 node_modules/
+.DS_Store
+resources/
+assets/jsconfig.json
+.hugo_build.lock

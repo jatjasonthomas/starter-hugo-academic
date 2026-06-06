@@ -16,78 +16,46 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description:
-  icon: code
+- description: Roadmap-driven data demand/supply modeling, fit-for-purpose criteria, acquisition and annotation portfolios, investment metrics, and release planning.
+  icon: sitemap
   icon_pack: fas
-  name: ML, AI, Data Science
-- description:
-  icon: brain
+  name: Healthcare Data Strategy
+- description: Governed data platforms for AI development, validation, analytics, and real-world evidence.
+  icon: project-diagram
   icon_pack: fas
-  name: Generative AI
-- description:
+  name: Regulated AI/MLOps
+- description: Imaging context, EHR/claims, ECG/VCG/ECGi, audit logs, speech/audio biomarkers, and intraprocedural data.
+  icon: heartbeat
+  icon_pack: fas
+  name: Multimodal Medical Data
+- description: Data-use agreements, licensing decisions, active learning and annotation operations, de-identification, provenance, and access controls.
+  icon: handshake
+  icon_pack: fas
+  name: Partnerships & Governance
+- description: Data lakes/lakehouses, data contracts, lineage, dataset versioning, quality gates, and reproducible pipelines.
+  icon: database
+  icon_pack: fas
+  name: Lakehouse & Data Engineering
+- description: HIPAA, GDPR, IRB workflows, EU MDR, EU AI Act readiness, QMS-aligned controls, and regulated evidence.
+  icon: shield-alt
+  icon_pack: fas
+  name: Medical AI Governance
+- description: Computable phenotypes, clinical features, post-market surveillance, real-world evidence, and PMCF analytics.
+  icon: chart-line
+  icon_pack: fas
+  name: Clinical Informatics & RWE
+- description: OMOP, HL7 FHIR, SNOMED, LOINC, ICD-10, CPT, HCPCS, RxNorm, UMLS, and medical data harmonization.
+  icon: table
+  icon_pack: fas
+  name: Standards & Vocabularies
+- description: Python, SQL, AWS, Airflow, PySpark, Parquet, Redshift, Athena, SageMaker, ClearML, GitHub Actions, and Linux.
   icon: terminal
   icon_pack: fas
-  name: Software Engineering
-- description:
-  icon: python
-  icon_pack: fab
-  name: Python
-- description:
-  icon: database
+  name: Cloud, Data & Compute
+- description: Hiring, mentoring, platform operating models, technical roadmaps, budget ownership, and cross-functional leadership.
+  icon: users
   icon_pack: fas
-  name: SQL
-- description:
-  icon: linux
-  icon_pack: fab
-  name: Linux
-- description:
-  icon: git
-  icon_pack: fab
-  name: Git
-- description:
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description:
-  icon: chart-bar
-  icon_pack: fas
-  name: Data Visualization
-- description: Utility Analyses, generation, privacy-utility tradeoff
-  icon: database
-  icon_pack: fas
-  name: Synthetic Data
-- description:
-  icon: user-secret
-  icon_pack: fas
-  name: Privacy Preserving Technologies
-- description: OMOP, FHIR, etc.
-  icon: table
-  icon_pack: fas
-  name: Biomedical data models
-- description: UMLS, ATHENA, LOINC, SNOMED, etc.
-  icon: table
-  icon_pack: fas
-  name: Biomedical Knowledge Bases, Vocabularies
-- description:
-  icon: code-branch
-  icon_pack: fas
-  name: Data Warehousing & Analysis Platforms 
-- description:
-  icon: code
-  icon_pack: fas
-  name: OHDSI Querying, Phenotyping, & Analysis Tools
-- description: Clinical trials, ethics approvals, data stewardship
-  icon: clinic-medical
-  icon_pack: fas
-  name: Clinical Research
-- description: Journal articles, grants, editing others' writing
-  icon: keyboard
-  icon_pack: fas
-  name: Scientific & Persuasive Writing
-- description: Hiring, Culture, Agile Management
-  icon: keyboard
-  icon_pack: fas
-  name: Team Building & Leadership
+  name: Team & Platform Leadership
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
